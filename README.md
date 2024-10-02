@@ -1,2 +1,2 @@
-# flipkart
+# demo
 Add to cart
